@@ -1,6 +1,6 @@
 # LapPricePrognosticator
 
-Welcome to the LapPricePrognosticator project! This project utilizes machine learning to predict the prices of laptops based on various features. The application is built using the Flask web framework and deployed on Heroku.
+Welcome to the LapPricePrognosticator project! This project utilizes machine learning to predict the prices of laptops based on various features. The application is built using the Flask web framework and deployed on Microsoft Azure.
 
 ![Static Badge](https://img.shields.io/badge/Repo-LapPricePrognosticator-blue) ![GitHub](https://img.shields.io/github/license/manulthanura/LapPricePrognosticator) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/LapPricePrognosticator?color=yellow) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/LapPricePrognosticator)
 
@@ -27,7 +27,7 @@ In this section we build a website using the Flask web framework. We create a fo
 
 ### 05. deploy application
 
-In this section we deploy the application on Heroku. Please refer requirements.txt file for the dependencies.
+In this section we deploy the application on Microsoft Azure. Please refer requirements.txt file for the dependencies.
 
 ## License
 
